@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perspiciatis",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Another Book",
+    "title": "Adipisicing elit.Perspiciatis lorem ipsum dolor sit amet consectetur",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Adventure Chronicles",
+    "title": "Consectetur adipisicing elit.Perspiciatis lorem ipsum dolor sit amet",
+    "price": 2.49,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Kids Stories",
+    "title": "Elit.Perspiciatis lorem ipsum dolor sit amet consectetur adipisicing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Mystery Tales",
+    "title": "Sit amet consectetur adipisicing elit.Perspiciatis lorem ipsum dolor",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Worlds",
+    "title": "Ipsum dolor sit amet consectetur adipisicing elit.Perspiciatis lorem",
+    "price": 1.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Sci-Fi Adventures",
+    "title": "Dolor sit amet consectetur adipisicing elit.Perspiciatis lorem ipsum",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Historical Journeys",
+    "title": "Amet consectetur adipisicing elit.Perspiciatis lorem ipsum dolor sit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Romantic Escapes",
+    "title": "Consectetur adipisicing elit.Perspiciatis lorem ipsum dolor sit amet",
+    "price": 2.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Thrilling Adventures",
+    "title": "Elit.Perspiciatis lorem ipsum dolor sit amet consectetur adipisicing",
+    "price": 1.49,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },{
+    "id": 11,
+    "name": "Romantic Escapes",
+    "title": "Consectetur adipisicing elit.Perspiciatis lorem ipsum dolor sit amet",
+    "price": 2.99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  },
+  {
+    "id": 12,
+    "name": "Thrilling Adventures",
+    "title": "Elit.Perspiciatis lorem ipsum dolor sit amet consectetur adipisicing",
+    "price": 1.49,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721105903~exp=1721109503~hmac=59332b52da92ade0816493e8f70f2462c02e6942a53afcfeda045ce596c44c2b&w=740"
+  }
+]
