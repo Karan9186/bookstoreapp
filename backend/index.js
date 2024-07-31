@@ -17,7 +17,7 @@ mainConn().catch((err)=>console.log("error is ",err))
 
 app.use(express.json())
 async function mainConn(){
-  await mongoose.connect("mongodb+srv://karan:wVjC3LucggxCgEL7@cluster0.oq2cyly.mongodb.net/bookstore")
+  await mongoose.connect(process.env.CONNECTION_MONGODB)
   console.log("connected")
 }
 
