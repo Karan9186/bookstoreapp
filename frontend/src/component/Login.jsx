@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { json, Link, useNavigate } from "react-router-dom";
 
 function Login() {
   let [logSign, setLogSign] = useState("login");
@@ -56,7 +56,7 @@ function Login() {
     e.preventDefault();
   };
 
-  const signUpHandle = (e) => {
+  const signUpHandle = async (e) => {
     const email1 = singupEmail.current.value;
     const name1 = signupName.current.value;
     const password1 = singupPassword.current.value;
@@ -74,6 +74,22 @@ function Login() {
         }, 5000);
       } else {
         if (password1 == ConPassword) {
+          const userDetails = {
+            name: name1,
+            email: email1,
+            password: password1,
+          };
+          const response = await fetch("http://localhost:3000/signup/", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(userDetails),
+          });
+          const result = await response.json();
+          console.log(result);
+          console.log(userDetails);
+
           // all backend
           // console.log(name1, email1, password1, ConPassword);
         } else {
